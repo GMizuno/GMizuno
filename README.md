@@ -23,6 +23,11 @@ Hi, I'm a Data Scientist and Data Engineer
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
+![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
+
+- Airflow
+- DBT
+
 <!--
 **GMizuno/GMizuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
