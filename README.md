@@ -1,3 +1,5 @@
+Hi, I'm a Data Scientist and Data Engineer
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GMizuno" alt="mizuno" /> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
