@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmizuno" alt="gmizuno" /></a> </p>
 
-- 🌱 I’m currently learning **dbt, GCP and Scala**
+- 🌱 I’m currently learning **Scala, GCP and Kubernetes**
 
 - 💬 Ask me about **Python, SQL and R**
 
