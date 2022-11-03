@@ -71,3 +71,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmizuno&show_icons=true&theme=merko&locale=en" alt="gmizuno" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmizuno&" alt="gmizuno" /></p>
+
+
+  ![Snake animation](https://github.com/GMizuno/GMizuno/blob/output/github-contribution-grid-snake.svg)
