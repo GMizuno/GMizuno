@@ -22,7 +22,7 @@ A passionate Data Scientist and Data Engineer from Brazil
 
 </p>
 
--   🌱 I'm currently learning **GCP, Kubernetes, Kafka and Rust**
+-   🌱 I'm currently learning **GCP, Kubernetes, Kafka and Go**
 
 -   💬 Ask me about **Python, SQL and R**
 
