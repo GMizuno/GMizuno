@@ -6,7 +6,7 @@ Hi 👋, I'm Gabriel Mizuno
 
 <h3 align="center">
 
-A passionate Data Scientist and Data Engineer from Brazil
+A passionate Data Engineer and Data Scientist from Brazil
 
 </h3>
 
