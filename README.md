@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
 
 Hi 👋, I'm Gabriel Mizuno
@@ -139,4 +141,9 @@ Other:
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gmizuno&amp;" alt="gmizuno" align="center"/></p>
 
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gmizuno&skills=python,go,sql,scala" width="800" />
+
 ![Snake animation](https://github.com/GMizuno/GMizuno/blob/output/github-contribution-grid-snake.svg)
+
+
+
