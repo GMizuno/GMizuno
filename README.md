@@ -139,6 +139,8 @@ Other:
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=gmizuno&amp;show_icons=true&amp;theme=merko&amp;locale=en" alt="gmizuno" align="center"/></p>
 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gmizuno&amp;" alt="gmizuno" align="center"/></p>
+
 
 ![Snake animation](https://github.com/GMizuno/GMizuno/blob/output/github-contribution-grid-snake.svg)
 
