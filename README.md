@@ -48,7 +48,8 @@ Programming Languages (Advanced Knowledge):
 
 <p align="left">
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
 
 </p>
 
@@ -60,9 +61,10 @@ Programming Languages (Intermediate/Basic Knowledge):
 
 <p align="left">
 
-<a href="matlab download" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a>
-<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="Scala" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/> </a>
+<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/> </a>
 <a href="https://julialang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/julia-logo-DC9698BAF9-seeklogo.com.png" alt="Julia" width="40" height="40"/> </a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang" width="40" height="40"/> </a>
 
 </p>
 
