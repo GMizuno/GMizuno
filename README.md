@@ -65,6 +65,7 @@ Programming Languages (Intermediate/Basic Knowledge):
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/> </a>
 <a href="https://julialang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/julia-logo-DC9698BAF9-seeklogo.com.png" alt="Julia" width="40" height="40"/> </a>
 <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/> </a>
 
 </p>
 
